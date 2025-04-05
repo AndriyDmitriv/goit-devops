@@ -11,9 +11,8 @@ ingress:
   enabled: false
 
 config:
-	POSTGRES_PORT: 5432
-	POSTGRES_HOST: db 
-	POSTGRES_PORT: 5432
-	POSTGRES_USER: django_user
-	POSTGRES_DB: django_db
-	POSTGRES_PASSWORD: pass9764gd
+  POSTGRES_PORT: 5432
+  POSTGRES_HOST: db
+  POSTGRES_USER: django_user
+  POSTGRES_DB: django_db
+  POSTGRES_PASSWORD: pass9764gd
