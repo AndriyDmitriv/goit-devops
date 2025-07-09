@@ -1,6 +1,6 @@
 image:
   repository: 864004266599.dkr.ecr.us-west-2.amazonaws.com/app
-  tag: v1.0.4
+  tag: v1.0.5
   pullPolicy: IfNotPresent
 
 service:
